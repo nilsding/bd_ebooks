@@ -1,0 +1,4 @@
+# ignore the bot's config as its credentials are saved there
+config.yml
+*.mmd
+util/product_descriptions.txt
